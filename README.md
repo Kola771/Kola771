@@ -41,18 +41,16 @@ Je construis des applications web robustes avec **NestJS**, **Next.js (TSX)** et
 
 ---
 
-#### 📊 Stats GitHub
-
-![Koladé's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kola771&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080c12&title_color=0ea5e9&text_color=94a3b8&icon_color=0ea5e9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kola771&layout=compact&theme=tokyonight&hide_border=true&bg_color=080c12&title_color=0ea5e9&text_color=94a3b8)
-
----
-
 #### 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/koladeaboudou)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=flat&logo=vercel&logoColor=white)](https://portfolio-kolade-aboudou.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:koladeaboudou@gmail.com)
+<a href="https://linkedin.com/in/koladeaboudou" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://portfolio-kolade-aboudou.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:koladeaboudou@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 > *"Open to remote opportunities worldwide 🌍"*
