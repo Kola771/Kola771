@@ -40,10 +40,6 @@ Je construis des applications web robustes avec **NestJS**, **Next.js (TSX)** et
 
 #### 📊 Stats GitHub
 
-![Koladé's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kola771&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080c12&title_color=0ea5e9&text_color=94a3b8&icon_color=0ea5e9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kola771&layout=compact&theme=tokyonight&hide_border=true&bg_color=080c12&title_color=0ea5e9&text_color=94a3b8)
-
 ---
 
 #### 📫 Me contacter
