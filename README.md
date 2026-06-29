@@ -1,4 +1,4 @@
-### Salut, moi c'est Koladé 👋
+### Salut, moi c'est Koladé M. ABOUDOU 👋
 
 **Développeur Full Stack** basé à Cotonou 🇧🇯 — disponible en **remote** partout dans le monde.
 
